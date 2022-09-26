@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ecocuivre_th *.css
+recursive-include ecocuivre_th *.csv
+recursive-include ecocuivre_th *.html
+recursive-include ecocuivre_th *.ico
+recursive-include ecocuivre_th *.js
+recursive-include ecocuivre_th *.json
+recursive-include ecocuivre_th *.md
+recursive-include ecocuivre_th *.png
+recursive-include ecocuivre_th *.py
+recursive-include ecocuivre_th *.svg
+recursive-include ecocuivre_th *.txt
+recursive-exclude ecocuivre_th *.pyc
