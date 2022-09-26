@@ -6,6 +6,9 @@ app_publisher = "Ecocuivre"
 app_description = "theme for Ecocuivre"
 app_email = "mail@mail.mail"
 app_license = "MIT"
+app_logo_url = "/assets/ecocuivre_th/images/logo_d.png"
+app_include_css = "/assets/ecocuivre_th/css/ecocuivre_th.css"
+web_include_css = "/assets/ecocuivre_th/css/ecocuivre_th.css"
 
 # Includes in <head>
 # ------------------
