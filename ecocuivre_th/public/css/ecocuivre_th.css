@@ -1,21 +1,21 @@
 .btn.btn-primary {
   text-align: center;
-  background-image: linear-gradient(to right, #1c203e, #606378);
+  background-image: linear-gradient(to right, #5460ba, #6978e8);
   box-shadow: 0 4px 12px 0 rgba(112, 157, 211, 0.75);
 }
 
 .standard-sidebar .standard-sidebar-item.selected, .desk-sidebar .standard-sidebar-item.selected, .search-dialog .search-results .search-sidebar .standard-sidebar-item.selected {
-  background-image: linear-gradient(to right, #1c203e, #606378);
+  background-image: linear-gradient(to right, #5460ba, #6978e8);
   box-shadow: 0 4px 12px 0 rgba(112, 157, 211, 0.75);
 }
 
 .standard-sidebar .standard-sidebar-item.selected:hover, .desk-sidebar .standard-sidebar-item.selected:hover, .search-dialog .search-results .search-sidebar .standard-sidebar-item.selected:hover {
-  background-image: linear-gradient(to right, #1c203e, #606378);
+  background-image: linear-gradient(to right, #5460ba, #6978e8);
   box-shadow: 0 4px 10px 0 rgba(112, 157, 211, 0.50);
 }
 
 .navbar{
-  background-image: linear-gradient(to right, #1c203e, #606378);
+  background-image: linear-gradient(to right, #5460ba, #6978e8);
 }
 
 .navbar-light .navbar-nav .nav-link {
